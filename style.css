@@ -1,0 +1,48 @@
+
+body {
+    font-family: Georgia, serif;
+    background-color: #88af88;
+}
+
+.navbar {
+    background-color: #94b258;
+}
+
+.navbar a {
+    color: #fff !important;
+}
+
+.container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #ffffff;
+}
+
+.btn-primary {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #45a049;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+button:hover {
+    background-color: #88af88;
+}
+
+p {
+    color: white;
+}
+
+label {
+    color: white; /* Белый цвет текста */
+}
